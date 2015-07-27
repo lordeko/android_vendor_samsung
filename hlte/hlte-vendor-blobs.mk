@@ -35,7 +35,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/hlte/proprietary/vendor/lib/libqmi_encdec.so:system/vendor/lib/libqmi_encdec.so \
     vendor/samsung/hlte/proprietary/vendor/lib/libqmiservices.so:system/vendor/lib/libqmiservices.so \
     vendor/samsung/hlte/proprietary/bin/efsks:system/bin/efsks \
-    vendor/samsung/hlte/proprietary/bin/ds_fmc_appd:system/bin/ds_fmc_appd \
     vendor/samsung/hlte/proprietary/bin/ks:system/bin/ks \
     vendor/samsung/hlte/proprietary/bin/qcks:system/bin/qcks \
     vendor/samsung/hlte/proprietary/bin/qmuxd:system/bin/qmuxd \
