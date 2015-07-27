@@ -300,4 +300,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/hlte-common/proprietary/etc/wifi/nvram_mfg.txt:system/etc/wifi/nvram_mfg.txt \
     vendor/samsung/hlte-common/proprietary/etc/wifi/nvram_net.txt:system/etc/wifi/nvram_net.txt \
     vendor/samsung/hlte-common/proprietary/etc/wifi/wpa_supplicant.conf:system/etc/wifi/wpa_supplicant.conf \
-    vendor/samsung/hlte-common/proprietary//vendor/lib/libqti-perfd-client.so:system//vendor/lib/libqti-perfd-client.so
+    vendor/samsung/hlte-common/proprietary/vendor/lib/libqti-perfd-client.so:system/vendor/lib/libqti-perfd-client.so \
+    vendor/samsung/hlte-common/proprietary/lib/libtinyxml.so:system/lib/libtinyxml.so \
+    vendor/samsung/hlte-common/proprietary/lib/hw/libgnustl_shared.so:system/lib/hw/libgnustl_shared.so \
+    vendor/samsung/hlte-common/proprietary/vendor/lib/libadsprpc.so:system/vendor/lib/libadsprpc.so \
+    vendor/samsung/hlte-common/proprietary/vendor/lib/libaudioalsa.so:system/vendor/lib/libaudioalsa.so
